@@ -26,5 +26,9 @@ python to_do_list.py
 - *Batch:* June 2025(B33)  
 - *Project Track:* Python Programming (CLI)
 
----
+## 📂 Project Files
+
+1. README.md - Documentation
+2. to_do_list_cli.py - Main Python script
+3. Screenshot_T1.png - Demo image
 
